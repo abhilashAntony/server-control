@@ -1,0 +1,50 @@
+.stack-main {
+    width: 80%;
+    margin: auto;
+    background-color: #50021B;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    color: #1EE1C9;
+}
+
+.stack-server-btn {
+    margin: auto;
+    width: 60%;
+    background-color: #544f43;
+}
+
+.server-type {
+    background-color: #186a36;
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    padding: 2px 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.server-type-wrap {
+    background-color: #02501f;
+    border: 1px solid black;
+    width: 75%;
+    margin: 4px auto 4px auto;
+    padding: 5px;
+}
+
+.expanded {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 8px;
+    border: 1px solid black;
+}
+
+.expanded h5 {
+    text-align: center;
+}
+
+.server-button {
+    display: flex;
+    justify-content: center;
+}
