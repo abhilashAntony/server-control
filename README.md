@@ -1,11 +1,13 @@
 # ServerControl
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+## Introduction
+
+Angular codebase demonstrates the dashboard of a simulated remote server monitoring system using angular.
+
+## How does it work?
+
+This application has two purposes, namely populating the page with the various servers to be monitored, and allowing the user to start or stop a given server. Using a live API server provided with a landing page, the application can make requests to this backend API to obtain and parse data. 
 
 ## Installation
 
-Run `npm install` to install node modules and dependencies.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
+All the dependencies used for this application is managed by [npm](https://www.npmjs.com/). Run `npm install` to install all the required dependencies.Run `ng serve` for a dev server. Open the browser, and navigate to `http://localhost:4200/`.
