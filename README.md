@@ -1,4 +1,4 @@
-# ServerControl
+# Remote server control simulator
 
 ## Introduction
 
