@@ -10,4 +10,4 @@ This application has two main functionalities, namely populating the page with a
 
 ## Installation
 
-All the dependencies used for this application is managed by [npm](https://www.npmjs.com/). Run `npm install` to install all the required dependencies.Run `ng serve` for a dev server. Open the browser, and navigate to `http://localhost:4200/`.
+All the dependencies used for this application is managed by [npm](https://www.npmjs.com/). Run `npm install` to install all the required dependencies. Run `ng serve` to start the application as a development server. Open the browser, and navigate to `http://localhost:4200/`.
