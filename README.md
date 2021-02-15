@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Angular codebase demonstrates the dashboard of a simulated remote server monitoring system using angular.
+Angular codebase demonstrates the dashboard of a simulated remote server monitoring system.
 
 ## How does it work?
 
-This application has two purposes, namely populating the page with the various servers to be monitored, and allowing the user to start or stop a given server. Using a live API server provided with a landing page, the application can make requests to this backend API to obtain and parse data. 
+This application has two purposes, namely populating the page with the various servers to be monitored, and then allowing the user to start or stop a given server. Using a live API server provided with a landing page, the application can make requests to this backend API to obtain and parse data. 
 
 ## Installation
 
