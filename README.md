@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Angular codebase demonstrates the working of a dashboard, for a simulated remote server monitoring system.
+This Angular codebase demonstrates a dashboard for a simulated remote server monitoring system.
 
 ## How does it work?
 
